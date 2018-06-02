@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	/*width: 1000px;
+	height: 650px;*/
+	margin:auto;
+}
+#contenedor{
+	width: 400px;
+	height: 250px;
+}
+#contenedorNav{
+	width: 500px;
+	height: 200px;
+        border-style: solid; 
+        margin-bottom: 10px;
+}
+#Profesor{
+	background: #F9E79F;
+	width:500px;
+	height:1000px;
+	margin-bottom: 10px;
+	border-style: solid;    
+}
+#Curso{
+    	background: #F9E79F;
+	width:500px;
+	height:700px;
+	margin-bottom: 10px;
+	border-style: solid; 
+}
+#Estudiantes{
+        background: #F9E79F;
+	width:500px;
+	height:725px;
+	margin-bottom: 10px;
+	border-style: solid;
+}
+#Asignatura{
+        background: #F9E79F;
+	width:500px;
+	height:550px;
+	margin-bottom: 10px;
+	border-style: solid;
+}
+#footer{
+    background: #F9E79F;
+    height: 35px;
+}
+#tabla{
+    width: 700px;
+}
