@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	/*width: 1000px;
+	height: 650px;*/
+	margin:auto;
+}
+#login{
+	background: #F9E79F;
+	width:500px;
+	height:500px;
+	margin-top: 125px;
+	margin-bottom: 125px;
+	border-radius: 20px;
+	border-color: #E74C3C;
+	border-style: solid;
+}
+#contenedorLogin{
+	width: 400px;
+	height: 250px;
+	font-size: 20px
+}	
